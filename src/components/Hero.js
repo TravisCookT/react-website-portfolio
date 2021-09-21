@@ -6,11 +6,6 @@ import './Hero.css'
 function Hero() {
     return (
         <div className='hero-container'>
-            {
-            // todo: fix this image tag
-            }
-            <img/> 
-
             <h1>Still Working on this website</h1>
             <p>Sorry</p>
             <div className="hero-btns">
@@ -25,6 +20,7 @@ function Hero() {
                 </Button>
             </div>
         </div>
+        
     )
 }
 
