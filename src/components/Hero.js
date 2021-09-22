@@ -6,8 +6,8 @@ import './Hero.css'
 function Hero() {
     return (
         <div className='hero-container'>
-            <h1>Still Working on this website</h1>
-            <p>Sorry</p>
+            <h1>Travis Cook</h1>
+            <p>Software Engineer</p>
             <div className="hero-btns">
                 <Button className='btns' buttonStyle='btn--outline' 
                 buttonSize='btn--large'>
